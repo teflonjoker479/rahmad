@@ -103,8 +103,8 @@ Gmid = ko.getProfile().mid
 Hmid = ke.getProfile().mid
 Imid = ku.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u33d60593ad472ed11e7907fb1daee6ae"]
-admin=["u33d60593ad472ed11e7907fb1daee6ae"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u0173652d4b483e2b4713b76fe0bc7dd8"]
+admin=["u0173652d4b483e2b4713b76fe0bc7dd8"]
 wait = {
     'contact':False,
     'autoJoin':True,
